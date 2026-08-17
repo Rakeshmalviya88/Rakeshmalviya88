@@ -1,6 +1,6 @@
 # Hi, I'm Rakesh Malviya 👋
 
-### Computer Science Engineering Student | Software Developer | AI/ML Enthusiast
+### Computer Science Engineering Student | Software Developer
 
 I'm a CSE student at **PES University** passionate about building practical software solutions and solving problems with **Data Structures & Algorithms, Full-Stack Development, and Machine Learning**.
 
@@ -18,9 +18,6 @@ Currently focused on strengthening my **software engineering fundamentals, backe
 
 **Backend & Database**
 `Node.js` `Express.js` `MongoDB` `MySQL` `REST APIs`
-
-**Machine Learning**
-`Python` `NumPy` `Pandas` `Scikit-learn` `Matplotlib` `TensorFlow`
 
 **Tools**
 `Git` `GitHub` `Linux` `VS Code`
@@ -40,18 +37,15 @@ Worked on an **EEG-based Machine Learning project** involving synthetic EEG data
 
 Full-stack **MERN** application integrating **1,000+ exercises** with search, filtering, recommendations, JWT authentication, fitness tracking, and Chart.js visualizations.
 
-**Tech:** React • Node.js • Express • MongoDB • JWT • Chart.js
+**Tech:** React • Node.js • Express • MongoDB • JWT
 
 ### 🚆 MyYatraa — Railway Ticket Booking Platform
 
 Full-stack railway booking system with **real-time seat availability, booking/cancellation, JWT authentication, and transactional database operations**.
 
 **Tech:** React • Node.js • Express • MySQL
-
-### 🤖 Readly — AI Article Summarizer
-
 AI-powered web application designed to **summarize long-form articles** and provide users with concise, readable content.
 
-**Tech:** JavaScript • React • AI APIs
+**Tech:**  • React • MySQL
 
 ---
