@@ -31,22 +31,3 @@ Currently focused on strengthening my **software engineering fundamentals, backe
 Worked on an **EEG-based Machine Learning project** involving synthetic EEG data generation using **Conditional WGAN-GP** and classification of BCI motor-imagery EEG signals.
 
 ---
-
-## 🚀 Featured Projects
-
-### 🏋️ PulseFit — Fitness Tracker & Exercise Platform
-
-Full-stack **MERN** application integrating **1,000+ exercises** with search, filtering, recommendations, JWT authentication, fitness tracking, and Chart.js visualizations.
-
-**Tech:** React • Node.js • Express • MongoDB • JWT
-
-### 🚆 MyYatraa — Railway Ticket Booking Platform
-
-Full-stack railway booking system with **real-time seat availability, booking/cancellation, JWT authentication, and transactional database operations**.
-
-**Tech:** React • Node.js • Express • MySQL
-AI-powered web application designed to **summarize long-form articles** and provide users with concise, readable content.
-
-**Tech:**  • React • MySQL
-
----
