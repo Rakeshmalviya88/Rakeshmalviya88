@@ -28,7 +28,7 @@ Currently focused on strengthening my **software engineering fundamentals, backe
 
 **Research Intern At DRDO**
 
-Worked on an **EEG-based Machine Learning project** involving synthetic EEG data generation using **Conditional WGAN-GP** and downstream classification for motor-imagery BCI.
+Worked on an **EEG-based Machine Learning project** involving synthetic EEG data generation using **Conditional WGAN-GP** and classification of BCI motor-imagery EEG signals.
 
 ---
 
